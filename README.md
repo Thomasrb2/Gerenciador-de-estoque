@@ -1,12 +1,12 @@
-Gerencidor de Estoque 📦
+# Gerenciador de Estoque 📦
 
-sobre o projeto: Desenvolvi este projeto com o objetivo de praticar os conceitos de Programação Orientada a Objetos (POO) em Java, implementando um sistema simples de gerenciamento de estoque.
+Sobre o projeto: Desenvolvi este projeto com o objetivo de praticar os conceitos de Programação Orientada a Objetos (POO) em Java, implementando um sistema simples de gerenciamento de estoque.
 
-Tecnologias utilizadas 🛠️
+## Tecnologias utilizadas 🛠️
 - Java
 - Visual Studio Code
 
-Funcionalidades ⚙️
+## Funcionalidades ⚙️
 - Cadastro de novos itens
 - Consulta da lista de itens cadastrados
 - Armazenamento dos itens utilizando ArrayList
@@ -14,4 +14,5 @@ Funcionalidades ⚙️
 - Menu interativo no terminal
 - Organização do código utilizando Programação Orientada a Objetos (POO)
 
-demonstração:
+## demonstração:
+![Menu do programa](imagens/menu.png)
