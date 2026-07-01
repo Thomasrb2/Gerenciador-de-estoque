@@ -15,4 +15,4 @@ Sobre o projeto: Desenvolvi este projeto com o objetivo de praticar os conceitos
 - Organização do código utilizando Programação Orientada a Objetos (POO)
 
 ## demonstração:
-![Menu do programa](imagens/menu.png)
+![Menu do programa](imagens/exemplo.png)
